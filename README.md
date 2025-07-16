@@ -49,6 +49,7 @@
 git clone https://github.com/yourname/slack-message-scheduler.git
 cd slack-message-scheduler
 pip install -r requirements.txt
+```
 
 ### 2. 환경 변수 설정
 
