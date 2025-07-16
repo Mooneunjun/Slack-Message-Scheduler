@@ -148,7 +148,6 @@ slack-message-scheduler/
 ## 📄 라이선스
 
 MIT License
-자유롭게 수정/배포 가능하나, Slack API 규정 및 보안 정책을 준수해주세요.
 
 
 
